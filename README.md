@@ -4,11 +4,11 @@ In this work, we propose Agree-to-Disagree (A2D), a novel framework for the auth
 
 
 
-# Requirements
+## Requirements
 
-Python 3.6/Anaconda.
-Numpy.
-Matplotlib. 
-Pandas.
-Keras.
-Google Colaboratory/Ipynb.
+* Python 3.6/Anaconda
+* Numpy
+* Matplotlib 
+* Pandas
+* Keras
+* Google Colaboratory/Ipynb
