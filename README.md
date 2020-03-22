@@ -11,4 +11,4 @@ In this work, we propose Agree-to-Disagree (A2D), a novel framework for the auth
 * Matplotlib 
 * Pandas
 * Keras
-* Google Colaboratory/Ipynb
+* Google Colaboratory/Jupyter
