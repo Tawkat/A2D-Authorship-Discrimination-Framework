@@ -16,4 +16,4 @@ In this work, we propose Agree-to-Disagree (A2D), a novel framework for the auth
 
 ## Acknowledgements
 
-This work was funded by Qatar National Library (QNL), Doha, Qatar.
+This research work was funded by Qatar National Library (QNL), Doha, Qatar.
